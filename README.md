@@ -7,10 +7,17 @@ In this example, I am using the dataset from Kaggle: https://www.kaggle.com/data
 pytorch
 
 numpy
+
 pandas
+
 matplotlib
+
 PIL
+
 glob
+
 os
+
 random
+
 tqdm
